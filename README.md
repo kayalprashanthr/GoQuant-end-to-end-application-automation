@@ -1,4 +1,4 @@
-## GoQuant QA-Bootcamp Assesment
+## GoQuant QA-Bootcamp Project
 
 ## Overview
 
